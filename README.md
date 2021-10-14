@@ -1,6 +1,8 @@
 # react-sound
 
-[![npm version](https://img.shields.io/npm/v/react-sound.svg?style=flat-square)](https://www.npmjs.com/package/react-sound)
+[![npm version](https://img.shields.io/npm/v/react-sound.svg?style=flat-square)](https://www.npmjs.com/package/@taubi19/react-sound)
+
+Forked from https://github.com/leoasis/react-sound to update react 17.0.2 dependency.
 
 Sound component to play audio in your web apps. Backed by the mighty [soundmanager2](https://github.com/scottschiller/SoundManager2) library.
 
